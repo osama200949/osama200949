@@ -1,85 +1,97 @@
-# Hi, I'm Osama Suliman 👋
+# Hi, I'm Osama Suliman
 
-I'm a Web & Mobile Developer based in Riyadh, Saudi Arabia, building business platforms, SaaS products, mobile apps, Shopify tools, and AI-powered systems.
+Full Stack Mobile & Web Developer based in Riyadh, Saudi Arabia.
 
-I work mainly with Laravel, React.js, Flutter, WordPress, Shopify, AWS, WHM/cPanel, Nginx, and AI integrations using OpenAI and computer vision models.
-
----
-
-## 🚀 What I Build
-
-- Web applications and SaaS platforms
-- Mobile apps for iOS and Android
-- Laravel dashboards and APIs
-- React.js frontends
-- Flutter mobile applications
-- Shopify apps and custom tools
-- WordPress business websites
-- AI/OCR document processing systems
-- CCTV and PPE detection solutions
-- HR, attendance, CRM, and automation platforms
+I build scalable web and mobile applications with Laravel and Flutter, with a strong focus on AI-assisted systems, OCR document processing, RESTful APIs, and reliable deployment.
 
 ---
 
-## 🧩 Featured Projects
+## About Me
 
-### Passmh — HR & Attendance Platform
-A complete HR and attendance management platform with web dashboard, mobile apps, GPS attendance, geofencing, live map tracking, employee management, leave management, reports, and AI-powered HR tools.
+I'm an innovative and detail-oriented developer experienced in building end-to-end systems, from concept and architecture to deployment. My work focuses on high-performance business applications, privacy-conscious AI solutions, and clean user experiences across web and mobile platforms.
+
+---
+
+## Featured Projects
+
+### Passmh - HR & Attendance Management System
 
 Website: https://passmh.com
 
+Developed a complete HR and attendance management platform with a mobile application and web dashboard. The system helps organizations manage employee records, track attendance, and streamline HR operations.
+
+Implemented AI-powered OCR features for processing and analyzing employee documents such as contracts, extracting structured insights to improve HR efficiency and decision-making.
+
+### PEC Website
+
+Website: https://pec.com.sa
+
+Developed and maintained the PEC company website with a clean, professional, and user-friendly interface representing the company's brand and services.
+
+Optimized performance and usability to support fast loading times and a smooth experience across devices.
+
 ### Medicothink AI
-An AI-powered medical thinking and assistance mobile application available on iOS.
 
 App Store: https://apps.apple.com/sa/app/medicothink-ai/id6751537439
 
-### Riskone-X
-AI vision system for hazard detection, safety labeling, and risk assessment support.
+Built an AI-powered mobile application designed to provide intelligent medical assistance and insights.
 
-### CCTV PPE Detection
-Live CCTV-based PPE detection using YOLO, RTSP streams, FastAPI, and Laravel backend integration.
+Integrated advanced AI models to analyze user input and deliver meaningful responses with a focus on usability, performance, and an intuitive mobile experience.
 
-### Shopify Custom Tools
-Custom React and Shopify app development for business workflows and store automation.
+### Riskone-X - AI Vision Risk Assessment System
 
----
+Developed an AI-based computer vision system for detecting hazards and assessing risks in real-time environments.
 
-## 🛠️ Tech Stack
+The system identifies unsafe conditions and classifies them according to international standards such as ISO and Naboosh frameworks, improving workplace safety and compliance through automated analysis.
 
-### Backend
-Laravel, PHP, Node.js, Express.js, REST APIs, MySQL, PostgreSQL
+### Altazamun Website
 
-### Frontend
-React.js, JavaScript, TypeScript, HTML, CSS, Bootstrap, Tailwind CSS
+Website: https://altazamun.com
 
-### Mobile
-Flutter, Dart, iOS, Android
+Developed and maintained the Altazamun website with a focus on responsive design, performance optimization, and scalability.
 
-### CMS & E-commerce
-WordPress, Shopify, WooCommerce
-
-### DevOps & Hosting
-AWS, WHM/cPanel, Nginx, Linux, GitHub Actions, VPS management, DNS, SSL, email configuration
-
-### AI & Computer Vision
-OpenAI API, OCR, YOLO, FastAPI, RTSP, AI automation, document analysis
+Ensured a seamless user experience across devices while building a solid foundation for future enhancements.
 
 ---
 
-## 📌 Current Focus
+## Skills
 
-- Building scalable SaaS platforms
-- AI integration for business systems
-- HR and attendance automation
-- Shopify app development
-- Laravel + React full-stack systems
-- Computer vision for safety and compliance
+### Mobile & Web Development
+
+Laravel, Flutter, RESTful APIs, Full Stack Application Development
+
+### AI & OCR
+
+Local AI Models, Ollama, LLaMA-based models, DeepSeek, OCR Integration, Document Processing
+
+### Databases
+
+MySQL, PostgreSQL
+
+### DevOps & Deployment
+
+cPanel, WHM, VPS Management, GitHub Actions
+
+### Integrations
+
+Payment Gateways, Firebase, Supabase, Cloudflare, API Integration
+
+### AI-Assisted Development Tools
+
+Cursor, GitHub Copilot, Antigravity, Claude Code
 
 ---
 
-## 📫 Contact
+## Education
 
-- Website: https://tamakan.com.sa
-- Product: https://passmh.com
+Bachelor Degree in Computer Science, Software Engineering  
+University Technology Malaysia, 2018 - 2023  
+Graduated with Honors
+
+---
+
+## Contact
+
+- Email: osama200949@gmail.com
 - GitHub: https://github.com/osama200949
 - Location: Riyadh, Saudi Arabia
