@@ -13,6 +13,17 @@ I build scalable web and mobile applications with Laravel and Flutter, with a st
   <img src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
 ---
 
 ## About Me
@@ -67,7 +78,7 @@ Ensured a seamless user experience across devices while building a solid foundat
 
 ### Mobile & Web Development
 
-Laravel, Flutter, RESTful APIs, Full Stack Application Development
+Laravel, Flutter, PHP, JavaScript, Dart, C++, HTML, CSS, Bootstrap, RESTful APIs, Full Stack Application Development
 
 ### AI & OCR
 
@@ -75,7 +86,7 @@ Local AI Models, Ollama, LLaMA-based models, DeepSeek, OCR Integration, Document
 
 ### Databases
 
-MySQL, PostgreSQL
+SQL, MySQL, PostgreSQL
 
 ### DevOps & Deployment
 
