@@ -4,6 +4,15 @@ Full Stack Mobile & Web Developer based in Riyadh, Saudi Arabia.
 
 I build scalable web and mobile applications with Laravel and Flutter, with a strong focus on AI-assisted systems, OCR document processing, RESTful APIs, and reliable deployment.
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+</p>
+
 ---
 
 ## About Me
@@ -78,7 +87,7 @@ Payment Gateways, Firebase, Supabase, Cloudflare, API Integration
 
 ### AI-Assisted Development Tools
 
-Cursor, GitHub Copilot, Antigravity, Claude Code
+Cursor, GitHub Copilot, Antigravity, Claude Code, Codex
 
 ---
 
