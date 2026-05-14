@@ -94,7 +94,7 @@ Cursor, GitHub Copilot, Antigravity, Claude Code, Codex
 ## Education
 
 Bachelor Degree in Computer Science, Software Engineering  
-University Technology Malaysia, 2018 - 2023  
+University Technology Malaysia
 Graduated with Honors
 
 ---
